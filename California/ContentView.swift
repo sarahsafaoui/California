@@ -6,7 +6,7 @@
 //  CaliforniaVideos
 //
 //  Created by sarah safaoui on 6/27/24.
-// for loop - used to basically pull datat from array and copy it to the end
+// for loop - used to basically pull data from array and copy it to the end
 
 import SwiftUI
 import AVKit
